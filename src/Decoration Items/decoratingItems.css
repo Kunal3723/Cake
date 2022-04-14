@@ -1,0 +1,14 @@
+#decorItem {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+#decorItem .select select {
+  outline: none;
+  border: 1px solid #9da3a4;
+  height: 25px;
+  padding: 2px;
+  border-radius: 4px;
+  width: 100px;
+  background: white;
+}

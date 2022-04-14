@@ -1,0 +1,11 @@
+#container{
+    margin-top: 25px;
+}
+input{
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 25px;
+}
+label{
+    margin-right: 25px;
+}
